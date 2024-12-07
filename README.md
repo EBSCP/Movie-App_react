@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Photo of Program
 
-<img src="" alt="">
+<img src="https://github.com/EBSCP/Movie-App_react/blob/main/Program.png" alt="">
 
 ### `npm start`
 
